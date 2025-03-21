@@ -1,7 +1,7 @@
 {
   "name": "ams-backend",
   "version": "1.0.0",
-  "description": "MERN Stack College Management System",
+  "description": "MERN Stack Academic Management System",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
